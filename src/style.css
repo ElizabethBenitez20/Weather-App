@@ -18,11 +18,11 @@ body::before {
 }
 
 a {
-  color: #80c6e0;
+  color: #69caee;
 }
 
 .weather-app {
-  background: white;
+  background: rgba(255, 255, 255, 0.635);
   max-width: 600px;
   margin: 30px auto;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -31,12 +31,12 @@ a {
 }
 
 header {
-  border-bottom: 1px solid #c8eefe49;
+  border-bottom: 1px solid #95dcfa7b;
   padding: 0 0 30px 0;
 }
 
 .search-form-input {
-  background-color: #c8eefe49;
+  background-color: #c8eefea7;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -45,7 +45,7 @@ header {
 }
 
 .search-form-button {
-  background-color: #80c6e07e;
+  background-color: #80c6e0b8;
   padding: 15px 30px;
   border: none;
   font-size: 16px;
@@ -100,7 +100,7 @@ main {
 }
 
 footer {
-  border-top: 1px solid #c8eefe49;
+  border-top: 1px solid #95dcfa7b;
   padding: 30px 0 0 0;
   text-align: center;
   font-size: 14px;
